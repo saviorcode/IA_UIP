@@ -1,0 +1,15 @@
+# Asignaciones de Inteligencia Artificial - UIP
+# Dependencias para Asignación 1 (KNN) y Asignación 2 (Regresión Lineal)
+
+# Análisis y manipulación de datos
+pandas>=3.0.0
+numpy>=2.4.0
+
+# Visualización
+matplotlib>=3.10.0
+
+# Machine Learning
+scikit-learn>=1.8.0
+
+# Soporte para Jupyter Notebooks en VS Code
+ipykernel>=7.2.0
